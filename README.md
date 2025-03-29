@@ -3,11 +3,12 @@ A simple Tkinter-based Python application that fetches and displays GitHub user 
 
 
 🛠 Tech Stack
-Python 🐍
-Tkinter (GUI)
+Python\n
+Tkinter (GUI)\n
 Requests (for API calls)
 
 Screenshot📸
+
 ![Screenshot 2025-03-29 184035](https://github.com/user-attachments/assets/4a510b58-4488-479a-a808-7ead69bccbc4)
 
 
