@@ -6,7 +6,7 @@ BASE_URL = "https://api.github.com/users/"
 def get_github_profile():
     username = username_entry.get().strip()
     if not username:
-        result_label.config(text="⚠️ Enter a valid username!", fg="red")
+        result_label.config(text="Enter a valid username!", fg="red")
         return
 
     url = f"{BASE_URL}{username}"
@@ -24,7 +24,7 @@ def get_github_profile():
 """
         result_label.config(text=profile_text, fg="black", bg="white")
     else:
-        result_label.config(text="❌ User not found. Check the username.", fg="red", bg="white")
+        result_label.config(text="User not found. Check the username.")
 
 
 # Tkinter GUI Setup
