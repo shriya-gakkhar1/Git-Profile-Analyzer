@@ -2,10 +2,7 @@
 A simple Tkinter-based Python application that fetches and displays GitHub user details using the GitHub API.
 
 
-🛠 Tech Stack
-Python\n
-Tkinter (GUI)\n
-Requests (for API calls)
+🛠 Tech Stack-  Python ,Tkinter (GUI) and Requests (for API calls).
 
 Screenshot📸
 
